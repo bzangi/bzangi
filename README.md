@@ -13,10 +13,6 @@
   <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bzangi&layout=compact&langs_count=7&theme=merko&hide_border=true&hide=javascript,html,css"/>
 </div>
 
-<div> 
-    <img height="180em" width="460em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@bzangi&layout=compact&range=all_time&theme=merko&hide_border=true"/> 
-</div>
-  
 <div style="display: inline_block"><br>
   <img align="center" alt="Bruno-Java" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Bruno-Kotlin" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
@@ -26,4 +22,10 @@
   <img align="center" alt="Bruno-Phx" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phoenix/phoenix-original-wordmark.svg">
   <img align="center" alt="Bruno-Graphql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg">
 </div>
+
+<div> 
+    <img height="180em" width="460em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@bzangi&layout=compact&range=all_time&theme=merko&hide_border=true"/> 
+</div>
+  
+
   
