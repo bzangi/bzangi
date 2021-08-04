@@ -1,9 +1,9 @@
 ### Hi there 👋, I am Bruno Zangirolami
 
 - 🔭 I’m currently working on Back-End development, especially Java and Spring Framework
-- 🤯☕🤓 Studying Java, Kotlin and SQL database 
+- 🤯☕🤓 Studying <img height="18px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> , <img height="18px" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"> and SQL databases
 - 🤔 Looking for a job
-- 📫 How to reach me: linkedin.com/in/bruno-zangirolami
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/bruno-zangirolami" target="_blank"><img height="18px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 - ⚡ Fun fact: A civil engineer that discovered that the world is going to be built digitally
 
 
