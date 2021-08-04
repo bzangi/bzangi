@@ -10,7 +10,7 @@
 <div>
   <a href="https://github.com/bzangi">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=bzangi&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" width="490em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bzangi&layout=compact&langs_count=7&theme=merko&hide_border=true&hide=javascript,html,css"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bzangi&layout=compact&langs_count=7&theme=merko&hide_border=true&hide=javascript,html,css"/>
 </div>
   <div> 
     <img height="180em" width="460em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@bzangi&layout=compact&range=all_time&theme=merko&hide_border=true"/> 
