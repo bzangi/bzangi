@@ -11,7 +11,7 @@
 <div>
   <a href="https://github.com/bzangi"></a>
   <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=bzangi&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bzangi&layout=compact&langs_count=7&theme=merko&hide_border=true&hide=javascript"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bzangi&layout=compact&langs_count=7&theme=merko&hide_border=true"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -25,7 +25,7 @@
 </div>
 
 <div> 
-    <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@bzangi&layout=compact&range=all_time&theme=merko&hide_border=true&hide=xml,git config,javascript"/> 
+    <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@bzangi&layout=compact&range=all_time&theme=merko&hide_border=true&hide=xml,git config"/> 
 </div>
   
 
