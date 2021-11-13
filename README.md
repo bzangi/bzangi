@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Bruno Zangirolami
 
 - 🔭 I’m currently working on Back-End development, especially Java and Spring Framework
-- 🤯☕🤓 Studying <img height="18px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> , <img height="18px" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"> , SQL databases, HTML5 and CSS
+- 🤯☕🤓 Studying <img height="18px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> , <img height="18px" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"> , SQL databases, HTML5, CSS3 and JavaScript
 - 🤔 Looking for a job
 - 👨‍🎓 Graduating on Analysis and systems development (Mackenzie)
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/bruno-zangirolami" target="_blank"><img height="18px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
