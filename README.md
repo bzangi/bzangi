@@ -1,8 +1,8 @@
 ### Hi there 👋, I am Bruno Zangirolami
 
 - 🔭 I’m currently working on Back-End development, especially Ruby on Rails and GraphQL
-- 🤯☕🤓 Studying <img height="18px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> , <img height="18px" src=" 	https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"> , SQL databases, HTML5, CSS3 and JavaScript
-- :love_you_gesture: Working for Qulture.Rocks as Software Engineer Intern | Helping organizations and teams unlock their potential
+- 🤯☕🤓 Studying <img height="20px" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"> , <img height="20px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> , SQL databases, , <img height="20px" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"> , <img height="20px" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"> and <img height="20px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+- :love_you_gesture: Q.Player at Qulture.Rocks as Software Engineer Intern | Helping organizations and teams unlock their potential
 - 👨‍🎓 Graduating on Analysis and systems development (Mackenzie)
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/bruno-zangirolami" target="_blank"><img height="18px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 - ⚡ Fun fact: A civil engineer that discovered that the world is going to be built digitally
@@ -15,8 +15,8 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Bruno-Kotlin" title="Kotlin" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="Bruno-Kotlin" title="Kotlin" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="Bruno-Ruby" title="Kotlin" height="40" width="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-ruby-a-dynamic-open-source-programming-language-logo-color-tal-revivo.png">
+  <img align="center" alt="Bruno-Rails" title="Kotlin" height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/62/Ruby_On_Rails_Logo.svg">
   
   <img align="center" alt="Bruno-Graphql" title="Graphql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg">
   
