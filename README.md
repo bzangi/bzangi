@@ -1,8 +1,8 @@
 ### Hi there 👋, I am Bruno Zangirolami
 
 - 🔭 I’m currently working on Back-End development, especially Ruby on Rails and GraphQL
-- 🤯☕🤓 Studying <img height="18px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> , <img height="18px" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"> , SQL databases, HTML5, CSS3 and JavaScript
-- 🤔 Working for Qulture.Rocks as Software Engineer Intern | Helping organizations and teams unlock their potential
+- 🤯☕🤓 Studying <img height="18px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> , <img height="18px" src=" 	https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"> , SQL databases, HTML5, CSS3 and JavaScript
+- :love_you_gesture: Working for Qulture.Rocks as Software Engineer Intern | Helping organizations and teams unlock their potential
 - 👨‍🎓 Graduating on Analysis and systems development (Mackenzie)
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/bruno-zangirolami" target="_blank"><img height="18px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 - ⚡ Fun fact: A civil engineer that discovered that the world is going to be built digitally
