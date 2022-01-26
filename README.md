@@ -5,7 +5,6 @@
 - :love_you_gesture: Q.Player at Qulture.Rocks as Software Engineer Intern | Helping organizations and teams unlock their potential
 - 👨‍🎓 Graduating on Analysis and systems development (Mackenzie)
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/bruno-zangirolami" target="_blank"><img height="18px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-- ⚡ Fun fact: A civil engineer that discovered that the world is going to be built digitally
 
 
 <div>
