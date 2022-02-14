@@ -14,8 +14,8 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Bruno-Ruby" title="Kotlin" height="40" width="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-ruby-a-dynamic-open-source-programming-language-logo-color-tal-revivo.png">
-  <img align="center" alt="Bruno-Rails" title="Kotlin" height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/62/Ruby_On_Rails_Logo.svg">
+  <img align="center" alt="Bruno-Ruby" title="Ruby" height="40" width="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-ruby-a-dynamic-open-source-programming-language-logo-color-tal-revivo.png">
+  <img align="center" alt="Bruno-Rails" title="Rails" height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/62/Ruby_On_Rails_Logo.svg">
   
   <img align="center" alt="Bruno-Graphql" title="Graphql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg">
   
