@@ -26,7 +26,7 @@
 </div>
 
 <div> 
-    <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@bzangi&layout=compact&range=all_time&theme=merko&hide_border=true&hide=xml,git config, other, bash, sql, json, text, php, scss, csv/tsv, yaml"/> 
+    <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@bzangi&layout=compact&range=all_time&theme=merko&hide_border=true&hide=xml,git config, other, bash, sql, json, text, php, scss, csv/tsv, slim, textmate"/> 
 </div>
   
 
