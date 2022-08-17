@@ -24,11 +24,12 @@
   
 </div>
 
-<div> 
-  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@bzangi&layout=compact&range=all_time&theme=merko&hide_border=true&hide=xml,git config, other, bash, sql, json, text, php, scss, csv/tsv, slim, textmate, gitignore file, css, html, erb, shell script, markdown"/> 
+<div>  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bzangi&layout=compact&langs_count=7&theme=merko&hide_border=true"/>
 </div>
-  
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
   
 
