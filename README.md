@@ -24,10 +24,15 @@
   
 </div>
 
+---
+
 <div>  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bzangi&layout=compact&langs_count=7&theme=merko&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bzangi&show_icons&theme=merko&hide_border=true"/>
 </div>
-<!--START_SECTION:waka-->
+
+---
+<!--START_SECTION:waka--> 
 
 <!--END_SECTION:waka-->
 
