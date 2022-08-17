@@ -27,14 +27,17 @@
 ---
 
 <div>  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bzangi&layout=compact&langs_count=7&theme=merko&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bzangi&layout=compact&langs_count=6&theme=merko&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bzangi&show_icons&theme=merko&hide_border=true"/>
+  <figure><embed src="https://wakatime.com/share/@bzangi/5841f7bb-9691-4f9e-a0d4-365cde16e73e.svg"></embed></figure>
+  
 </div>
 
 ---
 <!--START_SECTION:waka--> 
 
 <!--END_SECTION:waka-->
+
 
   
 
