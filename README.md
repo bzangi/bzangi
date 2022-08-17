@@ -26,7 +26,8 @@
 
 ---
 
-<div>  
+<div>
+  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@bzangi&layout=compact&range=all_time&theme=merko&hide_border=true&langs_count=8&hide=erb,css,bash,markdown,other,json,xml,text"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bzangi&layout=compact&langs_count=6&theme=merko&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bzangi&show_icons&theme=merko&hide_border=true"/>
   <figure><embed src="https://wakatime.com/share/@bzangi/5841f7bb-9691-4f9e-a0d4-365cde16e73e.svg"></embed></figure>
