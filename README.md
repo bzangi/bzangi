@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on Back-End development, especially Ruby on Rails and GraphQL
 - 🤯☕🤓 Studying <img height="20px" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"> , <img height="20px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> , SQL databases, , <img height="20px" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"> , <img height="20px" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"> and <img height="20px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-- :love_you_gesture: Q.Player at Qulture.Rocks as Software Engineer Intern | Helping organizations and teams unlock their potential
 - 👨‍🎓 Graduating on Analysis and systems development (Mackenzie)
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/bruno-zangirolami" target="_blank"><img height="18px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
